@@ -33,7 +33,8 @@ The dashboard was built using the following tools and technologies:
 
 ## Visualization
 
-![](https://github.com/Umeora-chikoo/Website_Traffic_Analytics_Dashboard/commit/f00983db66ea8c23e43985c9c87c09e874cbf5b9#diff-b9e0680d230b38a3c84cc37f9cd5e98e4035ae3f9b4389a7ef53a3769195fb63)
+![](https://github.com/Umeora-chikoo/Website_Traffic_Analytics_Dashboard/commit/f00983db66ea8c23e43985c9c87c09e874cbf5b9)
+
 ## Business Requirements & Analysis:
 
 ### WEBSITE TRAFFIC BY SOURCES AND DEVICES
